@@ -13,7 +13,7 @@ export default function upload(method, body = null) {
         xhr.open('GET', `${URL}/?${params}`);
         break;
       case 'ticketById':
-        params.append('ID', body);
+        params.append('id', body);
         xhr.open('GET', `${URL}/?${params}`);
         break;
       case 'createTicket':
