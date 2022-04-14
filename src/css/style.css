@@ -95,6 +95,7 @@ body {
 }
 
 .item__time {
+  min-width: 120px;
   margin-top: 7px;
   margin-right: 36px;
 }
