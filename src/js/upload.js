@@ -22,7 +22,7 @@ export default function upload(method, body = null) {
         xhr.open('POST', `${URL}/?${params}`);
         break;
       case 'deleteTicket':
-        params.append('ID', body);
+        params.append('id', body);
         xhr.open('DELETE', `${URL}/?${params}`);
         break;
     }
