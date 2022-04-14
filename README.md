@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u28ofkfcss1c1mpb?svg=true)](https://ci.appveyor.com/project/a-naraikin/n-ahj-hw-7-http-helpdesk-frontend)
+
 ## [веб-сайт](https://a-naraikin.github.io/n-ahj-hw.-7_http_HelpDesk_frontend/)
 
 ## Домашняя работа «Работа с HTTP: HelpDesk: Frontend»
