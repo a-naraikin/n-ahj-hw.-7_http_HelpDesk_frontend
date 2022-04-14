@@ -1,6 +1,6 @@
 /* eslint-disable default-case */
 export default function upload(method, body = null) {
-  const URL = 'http://localhost:7073';
+  const URL = 'https://help-desk-heroku.herokuapp.com/';
 
   return new Promise((resolve, reject) => {
     const params = new URLSearchParams();
